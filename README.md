@@ -1,4 +1,5 @@
 # Python-Games
-Games that I have made using Python
+Games that I have made using Python.
 
 1. Rock, Paper, Scissors
+2. Hangman
